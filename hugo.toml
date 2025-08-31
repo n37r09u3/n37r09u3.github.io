@@ -2,3 +2,6 @@ baseURL = 'https://n37r09u3.github.io/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
