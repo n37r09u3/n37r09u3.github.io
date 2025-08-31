@@ -4,3 +4,6 @@ draft = false
 title = 'My First Post'
 +++
 hello world
+
+
+![img.png](img.png)
